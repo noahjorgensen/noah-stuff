@@ -1,0 +1,110 @@
+#!/usr/bin/env python
+import time
+
+print("In this story, you will choose your own path. Type the number that mathes your choice.")
+time.sleep(5)
+print("Three")
+time.sleep(1)
+print("Two")
+time.sleep(1)
+print("One")
+time.sleep(1)
+print("""GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   
+GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO   GO""")
+
+a = input("""
+
+Choose a name: """)
+b = input("""
+
+1 = Male,  2 = Female""")
+print("""
+
+Hello """, a, """. You live in the year 2091. This is a story about you in a Space War.""")
+time.sleep(10)
+print("""
+
+this is you:""")
+time.sleep(3)
+if b == "1":
+    print("""
+
+
+   .;;;;;;;;;.
+  ;;;;;;;;;;;;;
+  ;;    '    ;;
+  ;       _   ;
+ n; ___`^/___,;n
+ )|' -'` '`- `|(
+ `(    ;.     )'
+  \\ /``-' \ '/
+   ||`_____  |
+   `.',---  ,'
+     \  ^  /  
+      `---'
+""")
+elif b == "2":
+    print("""
+
+          _.===.
+       _,/_ \\\ `-.
+      /`/| /      _\
+     // ` /////////\
+    | /`|/=*===*=| (
+   /`/` /|<o>)(o>(  )
+   \  \/\|    /  /\/
+   \`/` \/\ `=' /
+   |/\/` \/`._.'
+   /` |/`/ |  '
+   \//| /
+    ' '/
+""")
+else:
+    pass
+
+
+time.sleep(5)
+print("""
+
+Your mission will begin shortly...
+
+""")
+time.sleep(3)
+c = input('''Please choose   1 = Fighter,  2 = Information & Technology    ''')
