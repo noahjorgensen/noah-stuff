@@ -54,15 +54,15 @@ a = input("""
 Choose a name: """)
 b = input("""
 
-1 = Male,  2 = Female""")
+1 = Male,  2 = Female \n""")
 print("""
 
 Hello """, a, """. You live in the year 2091. This is a story about you in a Space War.""")
-time.sleep(5)
+time.sleep(2)
 print("""
 
 this is you:""")
-time.sleep(3)
+time.sleep(1)
 if b == "1":
     print("""
 
@@ -100,7 +100,7 @@ else:
     pass
 
 
-time.sleep(5)
+time.sleep(2)
 print("""
 
 Your mission will begin shortly...
