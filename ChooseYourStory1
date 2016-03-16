@@ -2,7 +2,7 @@
 import time
 
 print("In this story, you will choose your own path. Type the number that mathes your choice.")
-time.sleep(5)
+time.sleep(2)
 print("Three")
 time.sleep(1)
 print("Two")
@@ -58,7 +58,7 @@ b = input("""
 print("""
 
 Hello """, a, """. You live in the year 2091. This is a story about you in a Space War.""")
-time.sleep(10)
+time.sleep(5)
 print("""
 
 this is you:""")
@@ -107,4 +107,4 @@ Your mission will begin shortly...
 
 """)
 time.sleep(3)
-c = input('''Please choose   1 = Fighter,  2 = Information & Technology    ''')
+c = input("""Please choose   1 = Fighter,  2 = Information & Technology    \n""")
